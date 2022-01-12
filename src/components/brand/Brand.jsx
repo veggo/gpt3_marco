@@ -1,5 +1,5 @@
 import React from 'react';
-import { google, slack, atlassian, dropbox, shopify } from './imports';  //import delle immagini dei vari brand
+import { google, slack, atlassian, dropbox, shopify } from './imports';
 import './brand.css';
 
 const Brand = () => (
