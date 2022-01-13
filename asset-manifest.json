@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gpt3_marco/static/css/main.4c17d6b6.css",
+    "main.js": "/gpt3_marco/static/js/main.f4f5cd09.js",
+    "static/media/ai.png": "/gpt3_marco/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/gpt3_marco/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/gpt3_marco/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/gpt3_marco/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/gpt3_marco/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/gpt3_marco/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gpt3_marco/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/gpt3_marco/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3_marco/static/media/logo.3a0f32af9274972cc2721d31eb96ceff.svg",
+    "index.html": "/gpt3_marco/index.html",
+    "main.4c17d6b6.css.map": "/gpt3_marco/static/css/main.4c17d6b6.css.map",
+    "main.f4f5cd09.js.map": "/gpt3_marco/static/js/main.f4f5cd09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c17d6b6.css",
+    "static/js/main.f4f5cd09.js"
+  ]
+}
